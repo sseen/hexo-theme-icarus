@@ -1,0 +1,8 @@
+widgets:
+    -
+        position: right
+        type: toc
+    -
+        type: recent_posts
+        position: left
+    

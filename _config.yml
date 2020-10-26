@@ -208,10 +208,10 @@ widgets:
     #             icon: fas fa-rss
     #             url: /
     # Table of contents widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: toc
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: right
+    #     type: toc
     # # Recommendation links widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
@@ -227,10 +227,10 @@ widgets:
     #     position: left
     #     type: categories
     # Recent posts widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: recent_posts
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: right
+    #     type: recent_posts
     # # Archives widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
