@@ -226,11 +226,11 @@ widgets:
     #     # Where should the widget be placed, left sidebar or right sidebar
     #     position: left
     #     type: categories
-    # # Recent posts widget configurations
-    # -
-    #     # Where should the widget be placed, left sidebar or right sidebar
-    #     position: right
-    #     type: recent_posts
+    # Recent posts widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: recent_posts
     # # Archives widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
