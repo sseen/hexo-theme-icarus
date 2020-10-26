@@ -167,7 +167,7 @@ sidebar:
     # Right sidebar configurations
     right:
         # Whether the sidebar sticks to the top when page scrolls
-        sticky: false
+        sticky: true
 # Sidebar widget configurations
 # http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
@@ -207,11 +207,11 @@ widgets:
     #         RSS:
     #             icon: fas fa-rss
     #             url: /
-    # # Table of contents widget configurations
-    # -
-    #     # Where should the widget be placed, left sidebar or right sidebar
-    #     position: left
-    #     type: toc
+    # Table of contents widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: toc
     # # Recommendation links widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
